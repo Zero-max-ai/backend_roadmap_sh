@@ -5,6 +5,6 @@ This repository contains multiple backend projects, built following the backend 
 ## Projects
 
 ### Project 1: Task Manager CLI
-A command-line application that allows users to manage tasks with operations like adding, updating, listing, and deleting tasks.
+A command-line application that allows users to manage tasks with operations like adding, updating, listing, and deleting tasks. Project [url](https://roadmap.sh/projects/task-tracker)
 
 Each project is placed under a single branch with a brief description for better understanding.
